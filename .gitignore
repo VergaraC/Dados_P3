@@ -1,4 +1,5 @@
 
 auth.pass.json
 .ipynb_checkpoints/
+*.bat
 
