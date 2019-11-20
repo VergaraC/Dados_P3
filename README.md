@@ -6,7 +6,7 @@ At the moment we have two models up and running, a random forest one and a logis
 
 In the final project the user will be able to write the names of 2 fighters in the same category and the model will predict the winner.
 
-Files in drectory:
+Files in directory:
 
 Projeto3.ipynb - Jupyter file that the code is writting on.
 data.xlxs - Excel file that has all the data from all UFC fights.
