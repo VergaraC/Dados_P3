@@ -18,7 +18,11 @@ If you have any doubts or suggestion be sure to send us a message via GitHub or 
 Libraries needed to run:
 
 -sklearn;
+
 -pandas;
+
 -Numpy;
+
 -matplotlib;
+
 -statsmodels.
