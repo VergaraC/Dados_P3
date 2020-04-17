@@ -17,12 +17,12 @@ Link for database: https://www.kaggle.com/rajeevw/ufcdata#data.csv
 If you have any doubts or suggestion be sure to send us a message via GitHub or e-mail (vvergara@uol.com.br)
 Libraries needed to run:
 
--sklearn;
+  -sklearn;
 
--pandas;
+  -pandas;
 
--Numpy;
+  -Numpy;
 
--matplotlib;
+  -matplotlib;
 
--statsmodels.
+  -statsmodels.
